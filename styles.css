@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+#input-section {
+    margin-bottom: 20px;
+}
+
+#input-section label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#input-section input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#input-section button {
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+#output-section {
+    text-align: center;
+}
+
+#water-svg {
+    margin: 20px auto;
+    display: block;
+    width: 400px;
+    height: 200px;
+}
+
+#water-units {
+    font-size: 18px;
+}
